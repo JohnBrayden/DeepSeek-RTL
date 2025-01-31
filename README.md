@@ -6,16 +6,26 @@ In this repository, there are several extensions from different developers who h
 
 ---
 
-### 1️⃣ Extension 1
+### 1️⃣: Extension 1
 ##### by [@abdo-ibrahim](https://github.com/abdo-ibrahim)
 https://github.com/deepseek-ai/DeepSeek-V3/issues/294#issuecomment-2623142435
 
 ---
 
-### 2️⃣ Extension 2
+### 2️⃣: Extension 2
 ##### by [@javad-sh](https://github.com/javad-sh)
 https://github.com/javad-sh/deepseek_RTL_chrome_extention
 
+---
 
+### 3️⃣: Extension 3
+##### by [@pouriasabaghi](https://github.com/pouriasabaghi)
+https://github.com/pouriasabaghi/deepseek_rtl_extention
+
+---
+
+### 4️⃣: Extension 4
+##### by [@pedramgholizadeh](https://github.com/pedramgholizadeh)
+https://github.com/pedramgholizadeh/chat-deepseek-rtl-fixer-chrome
 
 ---
