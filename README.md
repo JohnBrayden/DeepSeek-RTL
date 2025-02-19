@@ -29,3 +29,9 @@ https://github.com/pouriasabaghi/deepseek_rtl_extention
 https://github.com/pedramgholizadeh/chat-deepseek-rtl-fixer-chrome
 
 ---
+
+### 5️⃣: Extension 5
+##### by [@AliMohaamed](https://github.com/AliMohaamed)
+https://github.com/AliMohaamed/DeepSeek-RTL
+
+---
